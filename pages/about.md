@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+This collection exists to serve the artists and art perusers of the Indiana University Dungeons and Dragons club. Before the implementation of this collection, all art in the club is shared through the group discord. The issue with this is the lack of searchability and the fact that art is not saved for future viewing. To look at old artwork, one has to scroll all the way back up the discord, taking far to long in order to view older artwork. With this collection, the art from a given year will be saved in a searchable and findable way. It is the hope of the creator that future generations of club members make good use of this collection to immortalize themselves and their art for as long as there is a want or a need to share their art with the world.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
